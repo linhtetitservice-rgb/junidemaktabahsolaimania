@@ -1,0 +1,6 @@
+{
+  "name": "Al-Turath NotebookLMs Hub",
+  "description": "Digital Islamic Library and Google NotebookLM knowledge bases hub featuring 84 specialized notebooks, 14,700+ classical and contemporary volumes, global search, and interactive book explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
